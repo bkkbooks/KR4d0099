@@ -31,6 +31,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: KR4d0099_WYG_005-1a05}
   - {type: indent, offset: 10, content: 　　, id: KR4d0099_krp_005-bkkind6}
   - {type: punctuation, offset: 15, content: (, id: KR4d0099_krp_005-bkkpn1}
+  - {type: voice, offset: 15, length: 25, name: note, id: n1}
   - {type: punctuation, offset: 29, content: /, id: KR4d0099_krp_005-bkkpn2}
   - {type: substitution, offset: 31, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19580}}
   - {type: punctuation, offset: 40, content: ), id: KR4d0099_krp_005-bkkpn3}
@@ -160,6 +161,7 @@ markers:
   - {type: line-break, offset: 544, content: '', id: KR4d0099_WYG_005-2b06}
   - {type: substitution, offset: 552, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: punctuation, offset: 553, content: (, id: KR4d0099_krp_005-bkkpn4}
+  - {type: voice, offset: 553, length: 117, name: note, id: n2}
   - {type: substitution, offset: 554, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: punctuation, offset: 565, content: /, id: KR4d0099_krp_005-bkkpn5}
   - {type: substitution, offset: 571, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
@@ -1483,4 +1485,4 @@ markers:
 
       ', id: KR4d0099_krp_005-bkkkrnewl323}
   back: []
-hash: sha256:c19a0ec04dcdc8e728fe891ba4b6325abd041c414215e07c8ee9a689f12321fa
+hash: sha256:be67a35f69ed33bfc56eb5e7c11709ae4fcc9acc83565383495e4a2d02ce1c58
